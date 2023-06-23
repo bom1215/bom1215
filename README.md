@@ -9,7 +9,7 @@
   
    🎓 Elementary School Teacher
    <br>
-   🔎 네이버 부스트캠프 AI TECH 5기
+   🔎 Naver BoostCamp AI TECH 5th 
   <br>
  
 </div>
