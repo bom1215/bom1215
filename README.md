@@ -3,7 +3,6 @@
 ## 👋 JUNBEOM LEE 👋 
 
 
-   <a href="https://blog.naver.com/bom1215"><img src="https://img.shields.io/badge/-Blog-20C997?style=flat-square&logo=Naver&logoColor=white&"/></a> <a href="https://glowing-trip-1a5.notion.site/until-DND-49abf00874cc4e62b13625625114ca96?pvs=4"><img src="https://img.shields.io/badge/-JunStory-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
 
 
   
