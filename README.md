@@ -25,4 +25,3 @@
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bom1215"/>
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bom1215&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
