@@ -1,6 +1,6 @@
 ### Hello! I'm Junbeom Lee 👋  
 
-🔭 I am a software developer specializing in Python backend engineering, with a strong interest in ML and data.  
+🔭 I am a software developer specializing in Python backend engineering, with a strong interest in data.  
 
 🍁 I currently live in Montreal, Canada.  
 
@@ -12,4 +12,4 @@
 
 ### You can find me on:  
 - [LinkedIn](https://www.linkedin.com/in/tbeom15)  
-- [JB Blog](https://bom1215.github.io/)  
+- [Portfolio](https://bom1215.github.io/)  
